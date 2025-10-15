@@ -1,0 +1,8 @@
+{
+  "rules": [
+    {"min": 0, "max": 30, "team": "Call Center"},
+    {"min": 31, "max": 90, "team": "Field Agent"},
+    {"min": 91, "max": 9999, "team": "Legal Team"}
+  ]
+}
+
